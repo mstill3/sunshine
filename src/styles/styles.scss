@@ -4,17 +4,11 @@ body {
   background-color: $background-color;
 }
 
-.navbar {
-  /* background-color: aliceblue; */
-  /* padding: 0px; */
-  background-color: $navbar-color;
-  border-bottom: 2px solid $navbar-border-color;
-}
-
 .bubble-list {
   overflow: auto;
   background-color: $bubble-list-color; 
   border: 2px solid $bubble-list-border-color;
+  margin-top: 20px;
   padding: 20px;
   border-radius: 10px;
 }
@@ -42,12 +36,6 @@ li {
   list-style: none;
 }
 
-
-
 #root {
-  position: fixed;
-  top: 0;
-  left: 250px;
-  height: 100vh;
-  width: calc(100% - 250px);
+  background-color: $background-color;
 }

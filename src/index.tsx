@@ -19,6 +19,7 @@ import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './magic/hidesidebar.js'
 import './styles/sidebar.scss'
+import './styles/styles.scss'
 
 // TodoListApp component
 const TodoListApp = () => {
@@ -110,16 +111,16 @@ const bubbles: Array<BubbleInterface> = [
 const App = () => {
   return (
     <div>
-      <NavBar 
+      {/* <NavBar 
         username=""
         points={3}
         avatar="unknown.jpg"
-      />
+      /> */}
       <div className="container content">
         <BubbleList
           bubbles={bubbles}
         />
-        <TodoListApp />
+        {/* <TodoListApp /> */}
       </div>
     </div>
   )
