@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Recipes App in React Native
 
-You can use the [editor on GitHub](https://github.com/mstill3/Sunshine/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<center><a href="https://www.instamobile.io/app-templates/food-app-template/"><img src="https://www.instamobile.io/wp-content/uploads/2019/07/Screen-Shot-2019-07-22-at-8.56.44-PM.png" /></a></center>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Download this beautiful free React Native starter kit, featuring a recipes app, to bootstrap your mobile app development. Learn React Native by working on a real project. Get familiar with various native components, navigation, redux and more.
 
-### Markdown
+## Getting Started
+To run the app, simply run
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+``` npm install && expo start ```
 
-```markdown
-Syntax highlighted code block
+And scan the QR code in the Expo client app.
 
-# Header 1
-## Header 2
-### Header 3
+## Expo Demo
+<center><a href=""><img src="https://www.instamobile.io/wp-content/uploads/2019/07/Screen-Shot-2019-07-22-at-8.20.29-PM.png" /></a></center>
 
-- Bulleted
-- List
+## Features
+- Recipes List
+- Categories
+- Ingredients
+- Recipes Details Screen
+- Photo Gallery
+- Detailed Description
+- Ingredients button
+- Ingredients List
+- Recipes by Ingredient
+- Search
+- Drawer Menu
+- Navigation Bar
+- Beautiful UI Design Kit
+- Compatible with Expo
+- Highly modularized codebase
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mstill3/Sunshine/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Coded with 💖💖💖 by <a href="https://www.instamobile.io/">Instamobile</a> and <a href="https://www.instakotlin.com/">Instakotlin</a>.
